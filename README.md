@@ -1,4 +1,4 @@
-# Chat Application UI
+# MyChat UI
 
 A modern and user-friendly chat application UI created in Figma. This design includes real-time messaging screens, user profiles, and customizable themes, providing an intuitive communication experience.
 
